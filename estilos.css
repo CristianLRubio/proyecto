@@ -1,0 +1,32 @@
+
+
+#map{
+    
+    border: 1px salmon solid;
+    font-size: 50px;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    text-align: center;
+
+
+}
+#div2{
+    
+    border: 1px salmon solid;
+    font-size: 18px;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    text-align: center;
+
+
+}
+
+.formControl{
+    margin: 15px;
+}
+body{
+
+    background-color: blueviolet;
+}
